@@ -122,6 +122,8 @@
   (require 'init-spelling))
 
 (require 'init-misc)
+(require 'company-lsp)
+(push 'company-lsp company-backends)
 
 (add-to-list 'load-path "/home/jxjian/dev/git/lsp-mode")
 (require 'lsp-mode)
@@ -174,6 +176,10 @@
   (setq-default uptimes-keep-count 200)
   (add-hook 'after-init-hook (lambda () (require 'uptimes))))
 
+(add-hook 'alan-fabric-mode-hook
+          (lambda ()
+            (flycheck-mode +1)
+            ))
 
 ;;----------------------------------------------------------------------------
 ;; Allow access from emacsclient
