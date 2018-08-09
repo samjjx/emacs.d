@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/samjjx/dev/git/jiaxin_blog/source/" . "_posts/")
+ ("/Users/samjjx/dev/git/jiaxin_blog/" . "source/")
+ ("/Users/samjjx/dev/git/" . "jiaxin_blog/")
+ ("/Users/samjjx/dev/" . "git/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/samjjx/dev/git/jiaxin_blog/source/_posts/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "DBScan.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/samjjx/dev/git/jiaxin_blog/source/_posts/" (23243 23057 0 0) "test.md" "hello-world.md" "DBScan.md" "../" "./")
+
+ ("/Users/samjjx/dev/git/jiaxin_blog/source/" (23240 57266 0 0) "books/" "about/" "_posts/" "../" "./")
+
+ ("/Users/samjjx/dev/git/jiaxin_blog/" (23240 55533 0 0) "update.sh" "themes/" "source/" "scaffolds/" "public/" "package.json" "package-lock.json" "node_modules/" "db.json" "_config.yml" ".gitignore" "../" "./")
+
+ ("/Users/samjjx/dev/git/" (23239 28684 0 0) "ycmd/" "xueersi/" "workingdiary/" "weixin/" "WeChat/" "vldb_format/" "tutorial/" "tmp/" "test/" "Study-Demo/" "samjjx.github.io/" "qp-impelmentation/" "qp-compression-kws/" "public-private/" "PPTopo/" "pp-tflabel/" "pp-data/" "poker/" "pivotalrd-libhdfs3/" "notebooks/" "mosaic/" "money/" "mira/" "mahjong/" "lovesmj/" "Love/" "jiaxin_blog/" "jena/" "Jama-1.0.2.jar" "hexo_blog/" "gsasl/" "graphicsMatte/" "grapeui/" "GrapeEnv/" "grape-test/" "grape-sync.sh" "grape-pr/" "grape-ecs/" "grape-dev/" "grape-demo/" "grape-data/" "grape-1/" "grape/" "google-scholar-crawler/" "glog/" "firstgame/" "DataProcessing/" "darknet/" "CS-180/" "Crawler/" "Course_Notes/" "coding-interview-university/" "CLRS-Solutions/" "chalmers-web/" "BUEMAIL/" "books/" "BiGindex-draft/" "BiGindex-data-format/" "bigindex/" "autoc/" "auto-youtube/" ".DS_Store" "../" "./")
+
+ ("/Users/samjjx/dev/" (23116 44847 0 0) "~$Preliminary results .xlsx" "temp/" "TA/" "Preliminary results .xlsx" "paper/" "mahjong/" "lovesmj/" "git/" "fund.xlsx" "django_first/" "dataset/" "comp4007/" "code/" "china/" ".DS_Store" "../" "./")
+
+ ("/Users/samjjx/" (23243 24191 0 0) "瓷砖/" "~$group_meeting_2018_04_10.pptx" "ycm_global_extra_conf.py" "website/" "VirtualBox VMs/" "util/" "USA2016_backup.mp4.zip" "USA2016_backup.mp4" "unnamed.autosave" "tmp.py" "tmp/" "The.Big.Bang.Theory.S11E08.念清.简体&amp;英文.srt" "The.Big.Bang.Theory.S11E08.720p.HDTV.x264-AVS.mkv" "test/" "sent.xlsx" "result/" "RCliqueTest.html" "query-focus-model-flat-newstyle.ipe.autosave" "Query Performance.md" "query/" "Public/" "PTTest.html" "Pictures/" "package-lock.json" "p391-meng.pdf" "node_modules/" "Music/" "Movies/" "midterm and assignment v2.xls" "metastore_db/" "Library/" "lfp0669-JIANG.pdf" "Lab2_Jiang_16483901.docx" "JCMP3/" "index/" "HelloWorld.html" "HelloWorld/" "hadoop/" "GUAVATest.html" "group_meeting_2018_04_10.pptx" "Google 云端硬盘/" "Google Drive File Stream/" "gen/" "example.pdf.autosave" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "derby.log" "decompress/" "config" "cav01.pdf副本.pdf" "bsim/" "BlinkTest.html" "Applications/" "amtemu.v0.8.1.mac-painter.dmg" "algorithms/" "Adlm/" "500 Miles中英字幕版 The Innocence Mission-SZmaLvUaAwU.webm" "2.xls" "1.xls" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-samjjx的MacBook Pro-5.2" ".zcompdump-samjjx's MacBook Pro-5.2" ".wget-hsts" ".vnc/" ".virtualenvs/" ".viminfo" ".v8flags.5.8.283.41.06f582eb3b128677403cfdb6f580c18c.json" ".Trash/" ".subversion/" ".stardict/" ".ssh/" ".spacemacs" ".sogouinput/" ".scala_history" ".sbt/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".node-gyp/" ".matplotlib/" ".m2/" ".local/" ".jupyter/" ".jmc/" ".ivy2/" ".ipython/" ".ipe/" ".idlerc/" ".idea-build/" ".gitconfig" ".gem/" ".emacs.d.bak/" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".config/" ".cmake/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".android/" "../" "./")
+
+ ("/Users/samjjx/.emacs.d/" (23243 23825 0 0) "tests/" "spacemacs.mk" "README.md" "private/" "news/" "layers/" "init.el" "elpa/" "doc/" "core/" "CONTRIBUTING.org" "COMMUNITY.org" "CHANGELOG.org" "assets/" ".travis.yml" ".travis-build.sh" ".projectile" ".gitignore" ".github/" ".git/" ".cache/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
